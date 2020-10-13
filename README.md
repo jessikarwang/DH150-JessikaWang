@@ -74,10 +74,11 @@ https://garden.org/learn/library/plantguide/
 
 # Uniqlo
 https://www.uniqlo.com/us/en/home/
-*Uniqlo is an Asian clothing brand that sells more expensive, high quality, everyday wear, perfect for an older women with stable income and financial situation. The company values new and lightweight technology when creating their clothes, and they advertise this on their website. The website allows shoppers to easily find clothes suitable to their taste and eventually can shop in stores or purchase online.
-
+*Uniqlo is an Asian clothing brand that sells more expensive, high quality, everyday wear, perfect for an older women with stable income and financial situation. The company values new and lightweight technology when creating their clothes, and they advertise this on their website. The website allows shoppers to easily find clothes suitable to their taste and eventually can shop in stores or purchase online.*
+![Uniqlo Website](uniqlo_screenshot.PNG)
 
 ## Overall Evalution
+*The website is consistent with their stores' and brands' aesthetic on their website through the simple text and small pops of red around the site. The usability of the site as a whole is quite comprehensive, and even middle-aged women who would like to shop online can easily navigate the site. The amount of options and navigation of the subsections is extremely helpful and allows users to feel like they have control. I think the site does a good job allowing users to feel comfortable and excited to explore more about the company and their products.
 
 ## Heuristic Evalution
 *Severity Rating (1-3)
@@ -86,27 +87,39 @@ https://www.uniqlo.com/us/en/home/
 3. Top priority*
 
 **1. Visibility of system status**: informing users of the status of the page through feedback
-*Good*: The bold sub-titles always indicates what page the user is on
-*Bad*: There is no other indication of the status of the page. In general the page is quite flat and non-engaging in its system status.
-  We could instead include loading circles and create a more noticeable page location bar
-*Severity Rating: 2- Minor Priority* 
-*Severity Rating: 3- Top Priority* 
+*Good*: The tabs between WOMEN/MEN/KIDS/ETC. highlight red when you are visiting that subsection of shopping on the site. This is also apparent in other clickable words throughout the website.
+*Bad*: There is no other indication of the status of the page after clicking on a page.
+  We could instead include loading circles 
+*Severity Rating: 1- low Priority* 
 
 **2. Match between system and the real world**: use logical words and icons that match common sense of the user
+*Good*: The icons and keywords at the very top of the page (Stores, Gift Card, etc.) are all common words and icons that match the real world that are easily understandable by middle-aged women. 
 
 **3. User Control and Freedom**: Give users options
+*Good*: After clicking a large sub-tab, there are many options to choose from on the left side of the page to help navigating the online shop easier. There is also an indication of all the places you visited first at the top and you can click the words to go back. For example: Home>Womens>New Arrivals
 
 **4. Consistency and Standards**: Use conventional words across the board
+*Good*: The site uses standard language that is understandable to everyone, including middle aged women. They call your cart your "shopping bag" because in stores, shoppers put items into their bag, not a cart. 
 
 **5. Error prevention**: safety nets to prevent errors
+*Bad*: There is little safety prevention in case of mistakes. The site will automatically take you to the next page without asking if you wanted to switch tabs or not.
+  Before navigating to their social medias, we should ask before taking the viewer to a completely new site.
+*Severity Rating: 2- minor problem* 
 
 **6. Recognition rather than recall**: Make options visible so the user does not need to remember everything
+*Good*: All the options are extremely visible on the side bar and drop down menu. They are also given an indication of what page they are currently visiting every time. 
 
 **7. Flexibility and efficiency of use**: Make the options available to use by all levels 
+*Good*: All levels can understand the use of the design and site. People like middle-aged women who are less familiar with online shopping can easily navigate it as well as younger generations who constantly shop online.
 
 **8. Aesthetic and minimalist design**: Only include important information and a minimal design
+*Good*: The aesthetic is striking! The white background is extremely clean and gives a good contrast to the colorful photos and the pops of red around the site.
+*Bad*: The home page is originally a little cluttered and the black bar at the bottom is distracting and ugly.
+  We could spread out the information lower down on the home page, especiall if the information is not the first thing viewers want to see. 
+*Severity Rating: 1- low priority* 
 
 **9. Help users recognize, diagnose, and recover from errors**: error messages should be easy to understand and provide easy solutions
+*Good*: If searching for a keyword that doesn't exist, the site with notify you that no keyword can be found. They then will suggest you to similar items based off the keyword
 
 **10. Help and documentation**: Provide easy accessible help information for the user
-
+*Good*: You can easily find the help page at the top AND bottom of the page! 
