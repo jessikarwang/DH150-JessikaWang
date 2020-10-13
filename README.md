@@ -5,14 +5,14 @@
 I chose to base my project off my mom, who is a middle-aged woman. She is someone with many hobbies and have been recently introduced to the many resources found on the internet. I want to find good sites that many middle-aged women can easily navigate without help from their children. I chose a gardening resource website because I can see my mom searching up gardening tips when working on her own garden. 
 
 
-## The National Gardening Association
+# The National Gardening Association
 https://garden.org/learn/library/plantguide/
 *The National Gardening Association is a resource that provides information and useful tips on gardening and plants. They maintain a large database of plants to conduct research and also created a network so plant lovers can connect and converse with one another. Here, visitors can search for resources regarding all things gardening.*
 ![National Gardening Association Plant Guides](Garden_screenshot.PNG)
-# Overall Evaluation
+## Overall Evaluation
 *hello*
 
-# Heuristic Evalution
+## Heuristic Evalution
 *Severity Rating (1-3)
 1: Cosmetic Problem, low priority
 2. Minor problem
@@ -42,11 +42,11 @@ https://garden.org/learn/library/plantguide/
 
 
 
-## Other Website
+# Other Website
 
-# Overall Evalution
+## Overall Evalution
 
-# Heuristic Evalution
+## Heuristic Evalution
 *Severity Rating (1-3)
 1: Cosmetic Problem, low priority
 2. Minor problem
