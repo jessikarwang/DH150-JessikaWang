@@ -2,7 +2,7 @@
 ## Assignment 1 Heuristic Evaluation
 
 ## Resources for Mom
-I chose to base my project off my mom, who is a middle-aged woman. She is someone with many hobbies and have been recently introduced to the many resources found on the internet. I want to find good sites that many middle-aged women can easily navigate without help from their children. I chose a gardening resource website because I can see my mom searching up gardening tips when working on her own garden. 
+I chose to base my project off my mom, who is a middle-aged woman. She is someone with many hobbies and have been recently introduced to the many resources found on the internet. I want to find good sites that many middle-aged women can easily navigate without help from their children. I chose a gardening resource website because I can see my mom searching up gardening tips when working on her own garden. My mom also enjoys shopping for clothes to find outfits that are flattering and also age-appropriate. Although she prefers shopping in person, because of COVID, she is forced to shop online like many of us. Therefore I chose the Uniqlo shopping website, an online store that middle-aged women frequent often. 
 
 
 # The National Gardening Association
@@ -72,7 +72,10 @@ https://garden.org/learn/library/plantguide/
 *Severity Rating: 3- Top Priority* 
 
 
-# Other Website
+# Uniqlo
+https://www.uniqlo.com/us/en/home/
+*Uniqlo is an Asian clothing brand that sells more expensive, high quality, everyday wear, perfect for an older women with stable income and financial situation. The company values new and lightweight technology when creating their clothes, and they advertise this on their website. The website allows shoppers to easily find clothes suitable to their taste and eventually can shop in stores or purchase online.
+
 
 ## Overall Evalution
 
