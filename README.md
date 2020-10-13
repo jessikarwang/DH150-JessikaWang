@@ -7,3 +7,4 @@ I chose to base my project off my mom, who is a middle-aged woman. She is someon
 
 ## The National Gardening Association
 https://garden.org/learn/library/plantguide/
+![National Gardening Association Plant Guides](Garden_screenshot.png)
