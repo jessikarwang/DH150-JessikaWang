@@ -19,44 +19,54 @@ https://garden.org/learn/library/plantguide/
 3: Top priority*
 
 **1. Visibility of system status**: informing users of the status of the page through feedback
+
 *Good*: The bold sub-titles always indicates what page the user is on
 *Bad*: There is no other indication of the status of the page. In general the page is quite flat and non-engaging in its system status.
   We could instead include loading circles and create a more noticeable page location bar
 *Severity Rating: 2- Minor Priority* 
 
 **2. Match between system and the real world**: use logical words and icons that match common sense of the user
+
 *Good*: The home icon is an easy to understand icon that even middle-aged women can comprehend. This icon will take you to the home page. The other icons of the search bar, login, signup, and share are all logical icons that match the real world of today. 
 
 **3. User Control and Freedom**: Give users options, especially during a mistake
+
 *Bad*: There is no way to go back to the previous page without clicking it again if a mistake was made. There is no undo or redo.
   We could instead include a back and forward button near the home icon.
 *Severity Rating: 2- Minor Priority* 
 
 **4. Consistency and Standards**: Use conventional words across the board
+
 *Good*: In general, the website is easy for beginner gardeners to understand, especially if needing small gardening tips. The "community" aspect is also effectly conveyed in the website and purpose of the association. 
 
 **5. Error prevention**: safety nets to prevent errors
+
 *Good*: Before sharing the page, an extra pop-up occurs to confirm if you want to share the page on social media.
 
 **6. Recognition rather than recall**: Make options visible so the user does not need to remember everything
+
 *Bad*: The options are extremely confusing and condensed and are visible only after clicking all the drop down menus. 
   We could instead show what sub-section the user has clicked on at the top of each page.
 *Severity Rating: 3- Top Priority* 
 
 **7. Flexibility and efficiency of use**: Make the options available to use by all levels 
+
 *Good*: Both simple actions and more complex interactions with the site is supported. Some people do not need to interact with the community and simply want to look up resources for gardening. 
 
 **8. Aesthetic and minimalist design**: Only include important information and a minimal design
+
 *Bad*: The aesthetic is quite drab and extremely cluttered
   We could spread out the information and create a single column rather than 2 columns on the home page. Though the aesthetics aren't most important, the design of the page extremely hinders all other aspects that it can provide.
 *Severity Rating: 3- Top Priority* 
 
 **9. Help users recognize, diagnose, and recover from errors**: error messages should be easy to understand and provide easy solutions
+
 *Bad*: Few errors pop up but when you search for a keyword that is not found, they do not tell you but recommend different articles and resources
   We could instead include an error message when a keyword was not found and give other suggestions based off the keyword
 *Severity Rating: 2- Minor Priority* 
 
 **10. Help and documentation**: Provide easy accessible help information for the user
+
 *Bad*: There is just a flood of information on the website with no useful concise help and documentation that would help condense the information.
   Provide instead a FAQ page or help center on the page.
 *Severity Rating: 3- Top Priority* 
@@ -73,7 +83,10 @@ https://garden.org/learn/library/plantguide/
 3. Top priority*
 
 **1. Visibility of system status**: informing users of the status of the page through feedback
-
+*Good*: The bold sub-titles always indicates what page the user is on
+*Bad*: There is no other indication of the status of the page. In general the page is quite flat and non-engaging in its system status.
+  We could instead include loading circles and create a more noticeable page location bar
+*Severity Rating: 2- Minor Priority* 
 *Severity Rating: 3- Top Priority* 
 
 **2. Match between system and the real world**: use logical words and icons that match common sense of the user
