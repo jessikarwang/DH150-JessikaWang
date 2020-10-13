@@ -78,7 +78,7 @@ https://www.uniqlo.com/us/en/home/
 ![Uniqlo Website](uniqlo_screenshot.PNG)
 
 ## Overall Evalution
-*The website is consistent with their stores' and brands' aesthetic on their website through the simple text and small pops of red around the site. The usability of the site as a whole is quite comprehensive, and even middle-aged women who would like to shop online can easily navigate the site. The amount of options and navigation of the subsections is extremely helpful and allows users to feel like they have control. I think the site does a good job allowing users to feel comfortable and excited to explore more about the company and their products.
+*The website is consistent with their stores' and brands' aesthetic on their website through the simple text and small pops of red around the site. The usability of the site as a whole is quite comprehensive, and even middle-aged women who would like to shop online can easily navigate the site. The amount of options and navigation of the subsections is extremely helpful and allows users to feel like they have control. I think the site does a good job allowing users to feel comfortable and excited to explore more about the company and their products.*
 
 ## Heuristic Evalution
 *Severity Rating (1-3)
