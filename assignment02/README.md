@@ -1,7 +1,7 @@
 # DH 150 Assignment 02 - Jessika Wang
 # Pilot Usability Test
 ## Introduction
-Garden.org is a website that provides both beginner and avid gardners with resources to connect with one another and gather useful gardening tips. There are many articles and useful information available about all different kinds of plants. 
+[Garden.org](https://garden.org/) is a website that provides both beginner and avid gardners with resources to connect with one another and gather useful gardening tips. There are many articles and useful information available about all different kinds of plants. 
 
 
 After the heuristic evaluation, some usability concerns were raised. Without the searchbar, it would be extremely difficult to find information as the tabs are not organized. However, in my previous heuristic evaluation, I also found errors in the search engine. There are few indication of errors when searching for a keyword that is not available. In addition, the search engine provides unclear presentation of the answers unless the user digs through all the articles. Finally, the aesthetic of the website as a whole is cluttered and unpleasant to look at. 
