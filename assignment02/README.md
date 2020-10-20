@@ -19,7 +19,7 @@ First, the moderator will read the script to inform the participant of the test.
 Here is the link to the [survey](https://forms.gle/7JAvB9ynFDmYGLMr5)
 
 ## Video Link
-Here is the link to the usability test video and screen recording
+Here is the link to the [usability test video and screen recording](https://drive.google.com/file/d/1Y5_8U7R4U23vfMOHOFhVG_J-dktOIfNb/view?usp=sharing)
 
 ## Reflection
 
