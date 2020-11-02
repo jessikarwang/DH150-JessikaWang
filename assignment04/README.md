@@ -30,7 +30,7 @@ The session included the following sections:
 
 **3. Follow-up Questions**
 
-## Interview Audio File & 
+## Interview Audio File & Video File
 
 ## Contextual Inquiry Guide & Script
 Guide
