@@ -16,8 +16,21 @@ The main target of user is middle-aged women, though it can be anyone who loves 
 The user must be able to access internet connection to use this product. They would do this activity in their own homes, where they can take pictures and look at their own plants while using the product. 
 
 ## Research Methods
+In order to better understand users and their motivations, I conducted a contextual inquiry on my roommate who enjoys gardening and learning about plants. The methods I used were interview and participatory observation. This was conducted in the apartment in a quiet environment. 
 
-## Interview Audio File
+
+The session included the following sections:
+
+
+**1. Background Questions**
+
+
+**2. Observations**
+
+
+**3. Follow-up Questions**
+
+## Interview Audio File & 
 
 ## Contextual Inquiry Guide & Script
 Guide
