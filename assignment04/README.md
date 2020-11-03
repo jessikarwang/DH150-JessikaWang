@@ -34,15 +34,12 @@ The session included the following sections:
 You can find the interview audio file [here](https://drive.google.com/file/d/1FSgzfPnxmxRpus7MvftAknAUZliQPY3z/view?usp=sharing)
 
 
-You can find the screen recording video here
+You can find the screen recording video [here](https://drive.google.com/file/d/1id2cdI5OUHyJA5ySGOLfySEaSSpOe4ue/view?usp=sharing)
 
 ## Contextual Inquiry Guide & Script
 You can find the interview script [here](https://docs.google.com/document/d/1ciQYCaF5zcJMmzcUQ26NwOzlCLfJvNkp7s9KmvpkccA/edit?usp=sharing)
 
-## Interview Transcript & Observation Notes
+## Interview Transcript 
 You can find the full transcript [here](https://drive.google.com/file/d/1gKjH9QpvSgdkOt1aSz3bRJkzZ5TJyQwa/view?usp=sharing)
-
-
-Observation Notes
 
 ## Reflection
