@@ -31,12 +31,18 @@ The session included the following sections:
 **3. Follow-up Questions** I asked direct follow-up questions to find other sources of an online gardening reasource and community. I also asked about their ideas for an online garden community. 
 
 ## Interview Audio File & Video File
+You can find the interview audio file [here](https://drive.google.com/file/d/1FSgzfPnxmxRpus7MvftAknAUZliQPY3z/view?usp=sharing)
+
+
+You can find the screen recording video here
 
 ## Contextual Inquiry Guide & Script
 You can find the interview script [here](https://docs.google.com/document/d/1ciQYCaF5zcJMmzcUQ26NwOzlCLfJvNkp7s9KmvpkccA/edit?usp=sharing)
 
 ## Interview Transcript & Observation Notes
-Full transcript
+You can find the full transcript [here](https://drive.google.com/file/d/1gKjH9QpvSgdkOt1aSz3bRJkzZ5TJyQwa/view?usp=sharing)
+
+
 Observation Notes
 
 ## Reflection
