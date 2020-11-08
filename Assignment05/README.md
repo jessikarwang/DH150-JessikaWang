@@ -1,2 +1,6 @@
 # Assignment 05 - Persona + Scenario
-## Jessika Wang
+## Purpose of UX Storytelling
+
+## Key Features in Design
+
+## Personas and Scenarios
