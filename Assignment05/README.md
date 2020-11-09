@@ -12,3 +12,20 @@ UX storytelling allows developers and designers to truly understand specific tar
 3. Page to display pictures of users' own plants
 
 ## Personas and Scenarios
+### Persona 1 - Amy Chang
+**Amy's Persona**
+
+**Amy's Empathy Map**
+
+**Amy's Scenarios**
+
+**Amy's Journey Map**
+
+### Persona 2 - David Peabody 
+**David's Persona**
+
+**David's Empathy Map**
+
+**David's Scenarios**
+
+**David's Journey Map**
