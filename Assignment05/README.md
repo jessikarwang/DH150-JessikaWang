@@ -8,4 +8,7 @@ UX storytelling allows developers and designers to truly understand specific tar
 
 2. Interactive discussion forums that maintain respectful content
 
+
+3. Page to display pictures of users' own plants
+
 ## Personas and Scenarios
