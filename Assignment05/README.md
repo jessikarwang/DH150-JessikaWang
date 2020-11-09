@@ -17,7 +17,7 @@ UX storytelling allows developers and designers to truly understand specific tar
 ## Personas and Scenarios
 ### Persona 1 - Amy Chang
 **Amy's Persona**
-Share the beauty of it on IG, passionate and take pride in, lets her put more time into her garden, take pictures to document for yourself (not on IG, that's for sharing), would still show garden even if not nice in order to get feedback (confident), a joy, like to share the progress with others. 
+Share the beauty of it on IG, passionate and take pride in, lets her put more time into her garden, take pictures to document for yourself (not on IG, that's for sharing), would still show garden even if not nice in order to get feedback (confident), a joy, like to share the progress with others. Wants to give plants away (hard to throw away)
 ; enjoy looking at other people's garden, gets ideas, learn from them, ok if people i dont know too, look up things online about tips and resources
 
 **Amy's Empathy Map**
