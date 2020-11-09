@@ -11,6 +11,9 @@ UX storytelling allows developers and designers to truly understand specific tar
 
 3. Page to display pictures of users' own plants
 
+
+4. "Marketplace" to exchange and give away plants
+
 ## Personas and Scenarios
 ### Persona 1 - Amy Chang
 **Amy's Persona**
