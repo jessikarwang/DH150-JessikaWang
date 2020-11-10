@@ -16,7 +16,7 @@ UX storytelling allows developers and designers to truly understand specific tar
 **Amy's Persona**
 
 
-![Amy's Persona](DH_150_Personas.png)
+![Amy's Persona](DH150_Amy_Persona.png)
 
 **Amy's Empathy Map**
 
