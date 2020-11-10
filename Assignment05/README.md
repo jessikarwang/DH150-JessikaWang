@@ -6,13 +6,10 @@ UX storytelling allows developers and designers to truly understand specific tar
 1. Catalog of informational videos about gardening
 
 
-2. Interactive discussion forums that maintain respectful content
+2. Interactive discussion forums for advice and "marketplace" to exchange and give plants
 
 
 3. Page to display pictures of users' own plants
-
-
-4. "Marketplace" to exchange and give away plants
 
 ## Personas and Scenarios
 ### Persona 1 - Amy Chang
