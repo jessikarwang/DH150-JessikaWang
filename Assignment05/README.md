@@ -41,7 +41,7 @@ UX storytelling allows developers and designers to truly understand specific tar
 **Amy's Journey Map**
 
 
-![Amy Journey](Amy_Journey_Map.png)
+![Amy Journey](Amy_Journey_Map_.png)
 
 ### Persona 2 - David Peabody 
 **David's Persona**
@@ -71,3 +71,6 @@ UX storytelling allows developers and designers to truly understand specific tar
 
 
 **David's Journey Map**
+
+
+![David Journey](David_Journey_Map.png)
