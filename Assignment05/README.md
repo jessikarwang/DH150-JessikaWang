@@ -55,19 +55,19 @@ UX storytelling allows developers and designers to truly understand specific tar
 ***Scenario 1:***
 
 
-***Why?***
+***Why?*** David is extremely interested in growing his own lettuce on his apartment balcony in order to have fresh greens for salads on hand. His aunt offers him to take some lettuce plants from her garden; however, he does not know how to plant and grow his own lettuce garden on his small balcony. Because his aunt has a large backyard garden, she is unable to advise him in his situation. David is unsure if he would be able to grow and maintain a mini garden alongside the busyness of school, so he searches up tutorial videos of growing lettuce in pots to better understand the process. 
 
 
-***How?***
+***How?*** In his apartment, David uses his personal laptop computer to search up “lettuce-growing tutorial videos” in a search engine. The search engine brings him to a catalog of informational videos on growing lettuce. He scrolls the catalog of videos until he finds a video titled “Grow lettuce in small spaces” and clicks on it. After watching the informational video, David is more confident in growing lettuce on his apartment balcony and contacts his aunt about picking up the lettuce plants next weekend. 
 
 
 ***Scenario 2:***
 
 
-***Why?***
+***Why?*** Inside his apartment, David raises a few indoor plants. However, during his midterm season where he was busy studying, he neglected his plants. After his midterms were over, he finally checked on his plants only to find that one of them was drying up and wilting. After a week of watering, the plant was still wilting and losing leaves. David was unsure why this was still happening even after giving it plenty of water and could not find any useful information online. He also had no plant-experts around him that he could ask for their opinion. He then decided to reach out to a gardening community online for their expertise, even if he was shy. 
 
 
-***How?***
+***How?*** Using his smartphone, David captured different angles to portray the condition of his indoor plant. He then uploaded his photos to a trustworthy gardening discussion forum and described his plant situation and sought advice from the online gardening community. He then surfed the discussion forum to learn more from previous posts about different types of plants and skills. After several comments, many users suggested moving his plant to a shadier area since the picture showed the plant receiving full sunlight next to a window. David was pleasantly surprised by this catered response for his plant situation and quickly followed the advice of the experts on this platform.
 
 
 **David's Journey Map**
