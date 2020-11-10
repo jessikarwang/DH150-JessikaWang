@@ -33,6 +33,11 @@ UX storytelling allows developers and designers to truly understand specific tar
 ***Scenario 2:***
 
 
+***Why?*** After years of experience tending to her garden, Amy appreciates the intricate beauty of nature as it grows throughout the seasons. When her rare “Queen of the Night” flower that only blooms at night finally opens, she drags her husband and children outside to appreciate it. However, her family does not seem to capture its beauty as much as she hoped. That night, she snapped a couple pictures of the rare flower and showed it to her friends the next day. Her gardening friends beamed at the picture and urged her to share its beauty to a bigger audience online.
+
+
+***How?*** Using the pictures of the flower she captured on her smartphone, Amy posts them to a gardening picture-sharing platform under her profile @amylittlegarden. To post, she creates an account and is able to share all her photos under one profile, captioning every photo as she desires. Sometimes, she even includes her reflections in the form of a poem inspired by the picture. On this platform, different users are able to browse her garden photos and even follow her if they want to continue seeing her posts. They are also able to comment on her post to ask questions or give compliments. Through this, Amy is able to share the beauty of nature and connect with a bigger community with a similar appreciation for gardening.
+
 **Amy's Journey Map**
 
 
@@ -45,5 +50,24 @@ UX storytelling allows developers and designers to truly understand specific tar
 ![David Persona](DH150_David_Persona.png)
 
 **David's Scenarios**
+
+
+***Scenario 1:***
+
+
+***Why?***
+
+
+***How?***
+
+
+***Scenario 2:***
+
+
+***Why?***
+
+
+***How?***
+
 
 **David's Journey Map**
