@@ -17,6 +17,7 @@ UX storytelling allows developers and designers to truly understand specific tar
 ## Personas and Scenarios
 ### Persona 1 - Amy Chang
 **Amy's Persona**
+![Amy's Persona](DH 150 Personas.pdf)
 
 **Amy's Empathy Map**
 
