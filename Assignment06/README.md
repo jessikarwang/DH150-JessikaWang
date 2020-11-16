@@ -54,7 +54,7 @@ A prototype test was conducted to better understand how the user would interact 
 ![Prototype1](Prototype_1.PNG)
 
 
-The tester originally clicked search and after considering the task again, clicked the video resources pull down tab. This showed that the user knows there are multiple ways to complete the task (search bar or drop down menu) without confusion. This was unexpected to me since I did not think the tester would realize there were other options to find garden video resources. The task was completed relatively smoothly.
+The tester originally clicked search and after considering the task again, clicked the video resources drop down menu. This showed that the user knows there are multiple ways to complete the task (search bar or drop down menu) without confusion. This was unexpected to me since I did not think the tester would realize there were other options to find garden video resources. The task was completed relatively smoothly.
 
 
 ### Task 2: Post a question on a discussion forum
@@ -72,3 +72,10 @@ This task was completed successfully with no mishaps, even when asked to create 
 
 
 ## Reflection
+The prototype testing overall went smoothly and the tester felt confident navigating the wireframes and found it straightforward. When preparing the low-fidelity prototype, I tried to make the wireframes as intuitive and clear as possible so that the tester would not face confusion. I also had to refrain from over complicating the design. However, through the test, I found that the tester could be confused what the search bar's function is and by the word choice of the drop down menu "Post". 
+
+
+Therefore, to improve the future prototype, I would indicate that the search bar can be used for resources and other interactions across the website as a starting point to direct the user to their final destination. However, they can also use the drop down menus to better understand the resources and features the website provides. In addition, like I mentioned previously, I need to be more cognizant on word choice and change the "Post" drop down menu with "Share" to differentiate from discussion posts used to ask for gardening advice from others. The share button would direct users to a photo sharing page to post pictures of their own garden. 
+
+
+The process itself was relatively smooth and I continued to gain more user insight on the ways they navigate design features. I did not expect the tester to realize there were multiple ways to find video resources, but I am glad this was clear to the user. As long as the user did not feel confused by this function, I believe it is wise to provide several methods to the same means to appease all different users.
