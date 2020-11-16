@@ -34,7 +34,7 @@ The purpose of this low fidelity prototype is to test the flow and verify the fu
 
 
 ### Task 1: Search for garden video resources
-![Wireflow1](A6_Wireflow_1.PNG)
+![Wireflow1](Wireflow_1.PNG)
 
 
 ### Task 2: Post question on discussion forum
