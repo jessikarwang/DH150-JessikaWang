@@ -6,11 +6,28 @@ This project seeks to provide informational resources and build an online commun
 
 The purpose of this low fidelity prototype is to test the flow and verify the functionality of the features designed for the target garden community to fulfill their needs for resources and connections.
 
-**Features and Tasks**
+**Features**
 
 
+1. Catalog of informational videos about gardening
 
 
+2. Interactive discussion forums for advice and "marketplace" to exchange and give plants
+
+
+3. Page to display pictures of users' own garden
+
+
+**Tasks**
+
+
+1. Searching for informational garden videos 
+
+
+2. Post questions and receive answers on discussion forum
+
+
+3. Post pictures of your plants and receive feedback
 
 
 ## Wireframes and Wireflow
