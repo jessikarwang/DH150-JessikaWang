@@ -47,19 +47,24 @@ The purpose of this low fidelity prototype is to test the flow and verify the fu
 
 ## Prototype Testing
 **Task 1: Search for garden video resources**
-![Wireflow1](
+![Prototype1](Prototype_1.PNG)
+
+
+Originally clicked search and then clicked the video resources pull down tab
 
 
 **Task 2: Post question on discussion forum**
-![Wireflow2]
+![Prototype2](Prototype_2.PNG)
+
+
+Originally clicked post, had to direct her to discussion drop down menu. Improve on wording
 
 
 **Task 3: Post picture of own garden**
-![Wireflow3](
+![Prototype3](Prototype_3.PNG)
 
 
-
-**Notes from each task**
+Confused about needing to create own profile
 
 
 ## Reflection
