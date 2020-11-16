@@ -33,16 +33,30 @@ The purpose of this low fidelity prototype is to test the flow and verify the fu
 ## Wireframes and Wireflow
 
 
-**Task 1**
+**Task 1: Search for garden video resources**
 ![Wireflow1](A6_Wireflow_1.PNG)
 
 
-**Task 2**
+**Task 2: Post question on discussion forum**
+![Wireflow2](Wireflow_2.PNG)
 
 
-**Task 3**
+**Task 3: Post picture of own garden**
+![Wireflow3](Wireflow_3.PNG)
+
 
 ## Prototype Testing
+**Task 1: Search for garden video resources**
+![Wireflow1](
+
+
+**Task 2: Post question on discussion forum**
+![Wireflow2]
+
+
+**Task 3: Post picture of own garden**
+![Wireflow3](
+
 
 
 **Notes from each task**
