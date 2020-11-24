@@ -64,19 +64,21 @@ I showed the participant the home page which includes the most design elements t
 "Looks easy to navigate"
 
 
+
 **Home screen wireframe before impression test**
 ![gardenhome](Garden_home.PNG)
 
-
 **Home screen wireframe after adjustments from the impression test**
 ![gardenchange](garden_home_change.PNG)
-
 
 From the impression test, I learned that a clean and simple design is superior to a fancy, overcomplicated design for the functions and target audience of my site, since I was worried it was not "pretty" enough. I changed certain minor critiques such as making the magnifying glass smaller. I also added other major components that the participant found was necessary to include. In the home page, I included a basic description of the features of the site in order to address the point of "It's not clear how to connect with other gardeners". I also added a call to action button (Create an account) to get more users to join the online garden community the site strives to promote. Other than these changes, the participant was satisfied with the colors and aesthetics of the design.  
 
 
 ## Accessibility (color-contrast) Check
+The dark olive text against the white background has a high (8.5) color-contrast ratio
 
+
+![colorcontrast](contrast_ratio.PNG)
 
 ## Interactive Prototype
 Here is the first [interactive prototype](https://www.figma.com/proto/zamawKbb5AHNGsQ4hRynUZ/DH-150-A07-01-Prototype?node-id=2%3A0&scaling=scale-down) made on Figma
