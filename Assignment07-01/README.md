@@ -28,7 +28,34 @@ The purpose of this high fidelity prototype is to test the functionality of the 
 Here are the [wireframes with graphic designs](https://www.figma.com/file/zamawKbb5AHNGsQ4hRynUZ/DH-150-A07-01-Prototype?node-id=0%3A1) made on Figma
 
 
+I wanted to design a simple and inviting site with high color-contrast because older audiences should be able to easily navigate the site. I chose dark green since many gardeners tend to gravitate toward this color and it seems fitting for the topic. I also chose a white clean background to appeal to younger audiences as well and increase readability. I included straight-forward headers at the top since the various functions of the site should be presented as clearly as possible. The search bar at the top also allows users to search anything on the site if they can not find their destination from the header sections. 
+
 ## Impression Test
+I showed the participant the home page which includes the most design elements that is also shown across the wireframes and collected his impressions and feedback. 
+
+
+**Ethan Kim, November 22, 2020**
+
+
+"Make magnifying glass smaller so it’s not touching the line"
+"Logo is clean and legible"
+"It's visually appealing and soothing"
+"It's not clear how to connect with other gardeners"
+"It needs a call to action button on first page. Maybe 'Start your own account'?"
+"The color of greens are good; the darker green is good for an older audience"
+"The white background is good, it's better than a beige"
+"I would like to read more about what this website is about. But I think the header is really clear in terms of content!"
+"Looks easy to navigate"
+
+
+**Home screen wireframe before impression test**
+
+
+
+**Home screen wireframe after adjustments from the impression test**
+
+
+From the impression test, I learned that a clean and simple design is superior to a fancy, overcomplicated design for the functions and target audience of my site, since I was worried it was not "pretty" enough. I changed certain minor critiques such as making the magnifying glass smaller. I also added other major components that the participant found was necessary to include. In the home page, I included a basic description of the features of the site in order to address the point of "It's not clear how to connect with other gardeners". I also added a call to action button (Create an account) to get more users to join the online garden community the site strives to promote. Other than these changes, the participant was satisfied with the colors and aesthetics of the design.  
 
 
 ## Accessibility (color-contrast) Check
