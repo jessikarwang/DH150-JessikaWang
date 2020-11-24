@@ -38,21 +38,38 @@ I showed the participant the home page which includes the most design elements t
 
 
 "Make magnifying glass smaller so it’s not touching the line"
+
+
 "Logo is clean and legible"
+
+
 "It's visually appealing and soothing"
+
+
 "It's not clear how to connect with other gardeners"
+
+
 "It needs a call to action button on first page. Maybe 'Start your own account'?"
+
+
 "The color of greens are good; the darker green is good for an older audience"
+
+
 "The white background is good, it's better than a beige"
+
+
 "I would like to read more about what this website is about. But I think the header is really clear in terms of content!"
+
+
 "Looks easy to navigate"
 
 
 **Home screen wireframe before impression test**
-
+![gardenhome](Garden_home.PNG)
 
 
 **Home screen wireframe after adjustments from the impression test**
+![gardenchange](garden_home_change.PNG)
 
 
 From the impression test, I learned that a clean and simple design is superior to a fancy, overcomplicated design for the functions and target audience of my site, since I was worried it was not "pretty" enough. I changed certain minor critiques such as making the magnifying glass smaller. I also added other major components that the participant found was necessary to include. In the home page, I included a basic description of the features of the site in order to address the point of "It's not clear how to connect with other gardeners". I also added a call to action button (Create an account) to get more users to join the online garden community the site strives to promote. Other than these changes, the participant was satisfied with the colors and aesthetics of the design.  
