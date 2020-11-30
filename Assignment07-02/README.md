@@ -87,7 +87,7 @@ Here is the first [interactive prototype](https://www.figma.com/proto/zamawKbb5A
 Add pictures, progress bar, make logo all go back to home screen
 
 ## Revised Wireflow
-![finalwireflow](Final_garden_wireflow.PNG) 
+![finalwireflow](Garden_revised_wireflow.PNG) 
 
 ## Final Interactive Prototype
 
