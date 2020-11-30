@@ -80,5 +80,14 @@ The dark olive text against the white background has a high (8.5) color-contrast
 
 ![colorcontrast](contrast_ratio.PNG)
 
-## Interactive Prototype
+## First Interactive Prototype 
 Here is the first [interactive prototype](https://www.figma.com/proto/zamawKbb5AHNGsQ4hRynUZ/DH-150-A07-01-Prototype?node-id=2%3A0&scaling=scale-down) made on Figma
+
+## In-class Cognitive Walkthrough 
+Add pictures, progress bar, make logo all go back to home screen
+
+## Revised Wireflow
+
+## Final Interactive Prototype
+
+## Reflection
