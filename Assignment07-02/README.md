@@ -85,6 +85,7 @@ Here is the first [interactive prototype](https://www.figma.com/proto/zamawKbb5A
 
 ## In-class Cognitive Walkthrough 
 Add pictures, progress bar, make logo all go back to home screen
+![gardenhomefinal](Garden_final_home.PNG)
 
 ## Revised Wireflow
 ![finalwireflow](Garden_revised_wireflow.PNG) 
