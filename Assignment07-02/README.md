@@ -1,4 +1,4 @@
-# Assignment 07-01 High-Fidelity Prototype
+# Assignment 07-02 High-Fidelity Prototype
 ## Project Description
 This project seeks to provide informational resources and build an online community within garden-lovers of all expertise levels. The target personas are those in the garden community who wish to expand an individual love for plants online to share and learn with others. Based on user research, a resource with informational videos and an online platform to converse and share pictures with others would add value to the ways the garden community connects with each other.
 
