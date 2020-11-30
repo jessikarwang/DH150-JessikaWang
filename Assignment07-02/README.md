@@ -88,8 +88,9 @@ Add pictures, progress bar, make logo all go back to home screen
 ![gardenhomefinal](Garden_final_home.PNG)
 
 ## Revised Wireflow
-You can also access the [revised wireframes](https://www.figma.com/file/0qMw1ccgnRAmaf0lThz75C/DH-150-A07-02-Prototype?node-id=0%3A1) on Figma
+Based on the in-class cognitive walkthrough, I included increased ability to cancel actions by allowing all screens to return to the home page when clicking on the "Garden Friends logo at the top left of the screen. These interactions are indicated in the revised wireflow. I also added pictures for better aesthetics and more details as suggested by my classmates in the cognitive walkthrough. 
 ![finalwireflow](Garden_revised_wireflow.PNG) 
+You can also access the [revised wireframes](https://www.figma.com/file/0qMw1ccgnRAmaf0lThz75C/DH-150-A07-02-Prototype?node-id=0%3A1) on Figma
 
 ## Final Interactive Prototype
 Here is the [final interactive prototype](https://www.figma.com/proto/0qMw1ccgnRAmaf0lThz75C/DH-150-A07-02-Prototype?node-id=2%3A0&scaling=scale-down) made on Figma
