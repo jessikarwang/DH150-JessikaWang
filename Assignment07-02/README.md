@@ -84,11 +84,19 @@ The dark olive text against the white background has a high (8.5) color-contrast
 Here is the first [interactive prototype](https://www.figma.com/proto/zamawKbb5AHNGsQ4hRynUZ/DH-150-A07-01-Prototype?node-id=2%3A0&scaling=scale-down) made on Figma
 
 ## In-class Cognitive Walkthrough 
+The in-class cognitive walkthrough helped reassure me of the simplicity and effectiveness of my overall design. I was unsure if all the features available would be clear from the home screen and if the users would be able to follow the steps smoothly. Based on my classmates' input, I concluded that the features of the gardening resource and social aspects were not overshadowed and were made clear from the beginning. They also appreciated the clean design and color choices of the website. Overall, the purpose of the site and target user was understood by the participants. 
+
+
+The cognitive walkthrough also revealed the easy and clear interactions of the design since it follows the structure of many other social and video platforms such as Instagram and Youtube. The participants were able to easily complete tasks through the straightforward feedback, standard templates, and large action buttons. They were also able to easily track progress  when the screen changes and the results are shown upfront. 
+
+
+I also gained insights to improve my prototype through the cognitive walkthrough. The participants suggested I increase interactions to make back-flow more accessible and allow the user to easily cancel their actions. One participant also stated that forward and backward buttons were not necessary for the home page. To improve aesthetics, the participants suggested adding pictures and details to more accurately portray the actual website in the prototype.
+
 Add pictures, progress bar, make logo all go back to home screen
 ![gardenhomefinal](Garden_final_home.PNG)
 
 ## Revised Wireflow
-Based on the in-class cognitive walkthrough, I included increased ability to cancel actions by allowing all screens to return to the home page when clicking on the "Garden Friends logo at the top left of the screen. These interactions are indicated in the revised wireflow. I also added pictures for better aesthetics and more details as suggested by my classmates in the cognitive walkthrough. 
+Based on the in-class cognitive walkthrough, I included increased back-flow by allowing all screens to return to the home page when clicking on the "Garden Friends" logo at the top left of the screen. These interactions are indicated in the revised wireflow. I also added pictures for better aesthetics and more details as suggested by my classmates in the cognitive walkthrough. 
 ![finalwireflow](Garden_revised_wireflow.PNG) 
 You can also access the [revised wireframes](https://www.figma.com/file/0qMw1ccgnRAmaf0lThz75C/DH-150-A07-02-Prototype?node-id=0%3A1) on Figma
 
@@ -96,3 +104,4 @@ You can also access the [revised wireframes](https://www.figma.com/file/0qMw1ccg
 Here is the [final interactive prototype](https://www.figma.com/proto/0qMw1ccgnRAmaf0lThz75C/DH-150-A07-02-Prototype?node-id=2%3A0&scaling=scale-down) made on Figma
 
 ## Reflection
+Continued to include different paths to complete the same action (searchbar/video resources OR share dropdown/create an account)
