@@ -10,7 +10,8 @@ What is the issue and Why do you think it is important to resolve that issue by 
 ### Competitor analysis: Heuristic Evaluation [assignment01 & 02]:
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
 You can include pictures or link my own assignment, table?
-![image](../Garden_final_home.png)
+![image](../Garden_final_home.png)height=300px
+<img src="../npr-screenshot.pmg" height="100px">
 
 ### User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
