@@ -1,13 +1,16 @@
-# Project title + your name
+# Project title 
+#### DH150: UX+UI, by Jessika Wang
 
-### Introduction: a brief information about the project. 
+### Introduction 
 What is the project about? The motivation of the project and possible contribution.
 
 ### Clear design statement: 
 What is the issue and Why do you think it is important to resolve that issue by your project? 
 
-### Competitor analysis [assignment01 & 02]:
+### Competitor analysis: Heuristic Evaluation [assignment01 & 02]:
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
+You can include pictures or link my own assignment, table?
+![image](../Garden_final_home.png)
 
 ### User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
