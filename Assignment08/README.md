@@ -43,11 +43,15 @@ The purpose of this low fidelity prototype is to test the flow and verify the fu
 
 Read more and view the wireflows [here](https://github.com/jessikarwang/DH150-JessikaWang/tree/main/Assignment06)
 
-## High-fidelity prototype (functional/interactive prototype, assignment08)
-Summary statement and link to or an embedded prototype
+## High-fidelity prototype 
+The purpose of this high fidelity prototype is to test the functionality of the features designed for the target garden community to fulfill their needs for resources and connections and polish the design to work best for the user.
+
+<figure class="video_container">
+ <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F0qMw1ccgnRAmaf0lThz75C%2FDH-150-A07-02-Prototype%3Fnode-id%3D2%253A0%26scaling%3Dscale-down" allowfullscreen></iframe>
+</figure>
 
 ## Optional evaluation and revision history 
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+Read about the cognitive walkthrough and impression test [here](https://github.com/jessikarwang/DH150-JessikaWang/blob/main/Assignment07-02/README.md)
 
 ## Pitch video [update the video after recording your presentation]
 
