@@ -33,16 +33,15 @@ UX storytelling allows developers and designers to truly understand specific tar
 
 ![amypersona](DH150_Amy_Persona.png) | ![davidpersona](DH150_David_Persona.png)
 
-<img src="https://github.com/jessikarwang/DH150-JessikaWang/blob/main/Assignment05/DH150_Amy_Persona.png" height="500px"> | <img src="https://github.com/jessikarwang/DH150-JessikaWang/blob/main/Assignment05/DH150_David_Persona.png" height="500px">
-
-
-
 Read more about the personas and scenarios [here](https://github.com/jessikarwang/DH150-JessikaWang/blob/main/Assignment05/README.md)
 
 ## Wireframe and graphic design element variation [assignment06 + part of 07]
 
-## Low-fidelity prototype (wireflow, assignment06)
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
+## Low-fidelity prototype 
+The purpose of this low fidelity prototype is to test the flow and verify the functionality of the features designed for the target garden community to fulfill their needs for resources and connections.
+
+
+Read more and view the wireflows [here](https://github.com/jessikarwang/DH150-JessikaWang/tree/main/Assignment06)
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
