@@ -1,15 +1,15 @@
-# Project title 
+# Garden Social App 
 #### DH150: UX+UI, by Jessika Wang
 
 ## Introduction 
 This project seeks to provide informational resources and build an online community within garden-lovers of all expertise levels. The target personas are those in the garden community who wish to expand an individual love for plants online to share and learn with others. Based on user research, a resource with informational videos and an online platform to converse and share pictures with others would add value to the ways the garden community connects with each other.
 
-## Clear design statement: 
+## Clear design statement
 My project hopes to support middle-aged women with a community that understands their hobbies and helps them grow as people, especially during a time of isolation. For many people, gardening is a form of therapy and gives them a sense of serenity when spending time with their plants. We can understand these motivations better in order to further advance the therapeutic aspects of gardening, while providing a bond over the love of plants. The project also hopes to enable gardeners to share their proudest plant growths and help one another become better gardeners.
 
 Though there are resources about gardening found online and opportunities to join planting communities, I want to be able to mesh the two well, after understanding the user and their motivations behind their love for gardening.
 
-## Competitor analysis: Heuristic Evaluation [assignment01 & 02]:
+## Competitor analysis: Heuristic Evaluation
 Garden.org is a website that provides both beginner and avid gardners with resources to connect with one another and gather useful gardening tips. There are many articles and useful information available about all different kinds of plants.
 
 After the heuristic evaluation, some usability concerns were raised. Without the searchbar, it would be extremely difficult to find information as the tabs are not organized. However, in my previous heuristic evaluation, I also found errors in the search engine. There are few indication of errors when searching for a keyword that is not available. In addition, the search engine provides unclear presentation of the answers unless the user digs through all the articles. Finally, the aesthetic of the website as a whole is cluttered and unpleasant to look at.
@@ -61,6 +61,9 @@ The purpose of this high fidelity prototype is to test the functionality of the 
 ## Optional evaluation and revision history 
 Read about the cognitive walkthrough and impression test [here](https://github.com/jessikarwang/DH150-JessikaWang/blob/main/Assignment07-02/README.md)
 
-## Pitch video [update the video after recording your presentation]
+## Pitch video 
 
-## Conclusion: what you learned throughout the process
+## Conclusion: 
+Creating this high-fidelity interactive prototype was overall quite satisfying to see my work and research come to fruition. Creating digital wireframes on Figma showed me the detail necessary for wireframes when creating web designs. I enjoyed the process of visually presenting my ideas and features for the site. I also learned the importance of user testing and feedback, which always resulted in better understanding of how to improve my design and what users want. When creating my prototype, I constantly changed my design based on others' feedback, since I often missed certain elements in the prototype. Both the impression test and cognitive walkthrough was necessary for me to improve and gain confidence in my design. Overall, the process was smooth and I was able to understand my target user on a deeper level.
+
+In my prototype, I continued to include different paths to complete the same action for different types of users. For instance, both the searchbar and video resources tab find videos or the share dropdown and the create an account button bring you to the profile page. However, if I were to change my prototype further, I would include even more options to arrive at the same destination. Moreover, I would add more details of how the discussion board operates. In general, I should include more details and interactions to create a more thorough interactive high-fidelity prototype. Overall, however, I believe my prototype suffices and does a good job targeting middle-aged women with its clear and simple design.
