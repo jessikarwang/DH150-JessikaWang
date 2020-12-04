@@ -44,6 +44,7 @@ UX storytelling allows developers and designers to truly understand specific tar
 Read more about the personas and scenarios [here](https://github.com/jessikarwang/DH150-JessikaWang/blob/main/Assignment05/README.md)
 
 ## Wireframe and graphic design element variation 
+
 ![wireflow1](Wireflow_1.PNG) | ![Wireflow2](Wireflow_2.PNG) | ![Wireflow3](Wireflow_3.PNG)
 
 ![wireflowfinal](Garden_revised_wireflow.PNG)
