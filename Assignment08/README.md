@@ -14,7 +14,18 @@ You can include pictures or link my own assignment, table?
 <img src="../npr-screenshot.pmg" height="100px">
 
 ### User research [contextual inquiry, assignment04]:
-Summary and link to your assignment folder
+In order to better understand users and their motivations, I conducted a contextual inquiry on my roommate who enjoys gardening and learning about plants. The methods I used were interview and participatory observation. This was conducted in the apartment in a quiet environment. 
+
+
+The session included the following sections:
+
+**1. Background Questions** I wanted to learn about the user's decision-making reasoning around their major and hobbies. I also wanted to learn more about their initial ideas around hobby-centered communities. I also want to know the user's typical day to support their lifestyle and needs.
+
+**2. Observations** First, I asked the user to search up any topic on their preferred website and walk me through their thought process. I asked questions throughout the task to learn more about their reasoning. I also asked whether they felt a community online forum was reliable. Next, I asked the user to search for gardening related topics and asked more in depth about their experiences of an online gardening community. I also asked what they are looking for when searching topics and their thoughts on sharing their own gardening experiences online.
+
+**3. Follow-up Questions** I asked direct follow-up questions to find other sources of an online gardening reasource and community. I also asked about their ideas for an online garden community. 
+
+
 Read more [here](https://github.com/jessikarwang/DH150-JessikaWang/blob/main/assignment04/README.md)
 
 ### UX storytelling [persona+scenario, assignment05]
