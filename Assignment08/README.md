@@ -44,6 +44,9 @@ UX storytelling allows developers and designers to truly understand specific tar
 Read more about the personas and scenarios [here](https://github.com/jessikarwang/DH150-JessikaWang/blob/main/Assignment05/README.md)
 
 ## Wireframe and graphic design element variation [assignment06 + part of 07]
+![wireflow1](Wireflow_1.PNG) | ![Wireflow2](Wireflow_2.PNG) | ![Wireflow3](Wireflow_3.PNG)
+
+![wireflowfinal](Garden_revised_wireflow.PNG)
 
 ## Low-fidelity prototype 
 The purpose of this low fidelity prototype is to test the flow and verify the functionality of the features designed for the target garden community to fulfill their needs for resources and connections.
