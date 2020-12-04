@@ -26,10 +26,13 @@ The session included the following sections:
 **3. Follow-up Questions** I asked direct follow-up questions to find other sources of an online gardening reasource and community. I also asked about their ideas for an online garden community. 
 
 
-Read more [here](https://github.com/jessikarwang/DH150-JessikaWang/blob/main/assignment04/README.md)
+Read more about the contextual inquiry [here](https://github.com/jessikarwang/DH150-JessikaWang/blob/main/assignment04/README.md)
 
 ### UX storytelling [persona+scenario, assignment05]
-Summary and link to your assignment folder
+UX storytelling allows developers and designers to truly understand specific target users and their motivations in order to create a product that caters to their needs and desires. Through UX storytelling, we can grasp a better picture of the user and how they will interact with our products and designs. By starting from the users' perspective, the team can work toward satisfying these specific needs that is described in the personas and scenarios.
+
+
+Read more about the personas and scenarios [here](https://github.com/jessikarwang/DH150-JessikaWang/blob/main/Assignment05/README.md)
 
 ### Wireframe and graphic design element variation [assignment06 + part of 07]
 
