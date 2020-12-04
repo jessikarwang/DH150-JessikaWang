@@ -15,6 +15,7 @@ You can include pictures or link my own assignment, table?
 
 ### User research [contextual inquiry, assignment04]:
 Summary and link to your assignment folder
+Read more [here](https://github.com/jessikarwang/DH150-JessikaWang/blob/main/assignment04/README.md)
 
 ### UX storytelling [persona+scenario, assignment05]
 Summary and link to your assignment folder
