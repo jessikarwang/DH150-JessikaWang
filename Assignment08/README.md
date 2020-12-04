@@ -2,16 +2,24 @@
 #### DH150: UX+UI, by Jessika Wang
 
 ## Introduction 
-What is the project about? The motivation of the project and possible contribution.
+This project seeks to provide informational resources and build an online community within garden-lovers of all expertise levels. The target personas are those in the garden community who wish to expand an individual love for plants online to share and learn with others. Based on user research, a resource with informational videos and an online platform to converse and share pictures with others would add value to the ways the garden community connects with each other.
 
 ## Clear design statement: 
-What is the issue and Why do you think it is important to resolve that issue by your project? 
+My project hopes to support middle-aged women with a community that understands their hobbies and helps them grow as people, especially during a time of isolation. For many people, gardening is a form of therapy and gives them a sense of serenity when spending time with their plants. We can understand these motivations better in order to further advance the therapeutic aspects of gardening, while providing a bond over the love of plants. The project also hopes to enable gardeners to share their proudest plant growths and help one another become better gardeners.
+
+Though there are resources about gardening found online and opportunities to join planting communities, I want to be able to mesh the two well, after understanding the user and their motivations behind their love for gardening.
 
 ## Competitor analysis: Heuristic Evaluation [assignment01 & 02]:
-Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
-You can include pictures or link my own assignment, table?
-![image](../Garden_final_home.png)height=300px
-<img src="../npr-screenshot.pmg" height="100px">
+Garden.org is a website that provides both beginner and avid gardners with resources to connect with one another and gather useful gardening tips. There are many articles and useful information available about all different kinds of plants.
+
+After the heuristic evaluation, some usability concerns were raised. Without the searchbar, it would be extremely difficult to find information as the tabs are not organized. However, in my previous heuristic evaluation, I also found errors in the search engine. There are few indication of errors when searching for a keyword that is not available. In addition, the search engine provides unclear presentation of the answers unless the user digs through all the articles. Finally, the aesthetic of the website as a whole is cluttered and unpleasant to look at.
+
+Through usability testing, we aim to improve the website from the users' perspective. UT allows developers to understand and improve their site/app to achieve a certain goal that is user-driven. Through this usability test, I want to test how the aesthetic and the search engine affects the user's ability to research information in different scenarios. Each task will ask the users to utilize the search bar in order to conduct research related to gardening and test the user's ability to navigate the website. Ultimately, we are trying to understand the user and their perspective of the website's functions.
+
+Read more and view the heuristic testing [here](https://github.com/jessikarwang/DH150-JessikaWang/blob/main/README.md)
+
+
+Read more and view the usability testing [here](https://github.com/jessikarwang/DH150-JessikaWang/tree/main/assignment02)
 
 ## User research
 In order to better understand users and their motivations, I conducted a contextual inquiry on my roommate who enjoys gardening and learning about plants. The methods I used were interview and participatory observation. This was conducted in the apartment in a quiet environment. 
