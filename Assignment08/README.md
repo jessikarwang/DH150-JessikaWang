@@ -18,7 +18,7 @@ Through usability testing, we aim to improve the website from the users' perspec
 
 Read more and view the heuristic testing [here](https://github.com/jessikarwang/DH150-JessikaWang/blob/main/README.md)
 
-
+## Competitor analysis: Usability Testing
 Read more and view the usability testing [here](https://github.com/jessikarwang/DH150-JessikaWang/tree/main/assignment02)
 
 ## User research
@@ -43,17 +43,17 @@ UX storytelling allows developers and designers to truly understand specific tar
 
 Read more about the personas and scenarios [here](https://github.com/jessikarwang/DH150-JessikaWang/blob/main/Assignment05/README.md)
 
-## Wireframe and graphic design element variation 
-
-![wireflow1](Wireflow_1.PNG) | ![Wireflow2](Wireflow_2.PNG) | ![Wireflow3](Wireflow_3.PNG)
-
-![wireflowfinal](Garden_revised_wireflow.PNG)
-
 ## Low-fidelity prototype 
 The purpose of this low fidelity prototype is to test the flow and verify the functionality of the features designed for the target garden community to fulfill their needs for resources and connections.
 
 
 Read more and view the wireflows [here](https://github.com/jessikarwang/DH150-JessikaWang/blob/main/Assignment06/README.md)
+
+## Wireframe and graphic design element variation 
+
+![wireflow1](Wireflow_1.PNG) | ![Wireflow2](Wireflow_2.PNG) | ![Wireflow3](Wireflow_3.PNG)
+
+![wireflowfinal](Garden_revised_wireflow.PNG)
 
 ## High-fidelity prototype 
 The purpose of this high fidelity prototype is to test the functionality of the features designed for the target garden community to fulfill their needs for resources and connections and polish the design to work best for the user.
@@ -69,7 +69,7 @@ Read about the cognitive walkthrough and impression test [here](https://github.c
 
 ## Pitch video 
 
-## Conclusion: 
+## Conclusion 
 Creating this high-fidelity interactive prototype was overall quite satisfying to see my work and research come to fruition. Creating digital wireframes on Figma showed me the detail necessary for wireframes when creating web designs. I enjoyed the process of visually presenting my ideas and features for the site. I also learned the importance of user testing and feedback, which always resulted in better understanding of how to improve my design and what users want. When creating my prototype, I constantly changed my design based on others' feedback, since I often missed certain elements in the prototype. Both the impression test and cognitive walkthrough was necessary for me to improve and gain confidence in my design. Overall, the process was smooth and I was able to understand my target user on a deeper level.
 
 In my prototype, I continued to include different paths to complete the same action for different types of users. For instance, both the searchbar and video resources tab find videos or the share dropdown and the create an account button bring you to the profile page. However, if I were to change my prototype further, I would include even more options to arrive at the same destination. Moreover, I would add more details of how the discussion board operates. In general, I should include more details and interactions to create a more thorough interactive high-fidelity prototype. Overall, however, I believe my prototype suffices and does a good job targeting middle-aged women with its clear and simple design.
