@@ -12,6 +12,7 @@ kdfj;alj
 
 Garden.org is a website that provides both beginner and avid gardners with resources to connect with one another and gather useful gardening tips. There are many articles and useful information available about all different kinds of plants.
 
+![gardenscreenshot](Garden_screenshot.PNG)
 View the full heuristic evaluation [here](https://github.com/jessikarwang/DH150-JessikaWang/blob/main/README.md)
 
 ## Competitor analysis: Usability Testing
