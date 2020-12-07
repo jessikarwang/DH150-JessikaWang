@@ -2,7 +2,7 @@
 #### DH150: UX+UI, by Jessika Wang
 
 ## Introduction 
-This project seeks to provide informational resources and build an online community within garden-lovers of all expertise levels. The target personas are those in the garden community who wish to expand an individual love for plants online to share and learn with others. Based on user research, a resource with informational videos and an online platform to converse and share pictures with others would add value to the ways the garden community connects with each other.
+This project, gardenfriends.org, seeks to provide informational resources and build an online community within garden-lovers of all expertise levels. The target personas are those in the garden community who wish to expand an individual love for plants online to share and learn with others. Based on user research, a resource with informational videos and an online platform to converse and share pictures with others would add value to the ways the garden community connect with each other.
 
 ## Clear design statement
 My project hopes to support middle-aged women with a community that understands their hobbies and helps them grow as people, especially during a time of isolation. For many people, gardening is a form of therapy and gives them a sense of serenity when spending time with their plants. We can understand these motivations better in order to further advance the therapeutic aspects of gardening, while providing a bond over the love of plants. The project also hopes to enable gardeners to share their proudest plant growths and help one another become better gardeners.
