@@ -8,18 +8,18 @@ Gardenfriends.org seeks to provide informational resources and build an online c
 My project hopes to support middle-aged women with a community that understands their hobbies and helps them grow as people, especially during a time of isolation. For many people, gardening is a form of therapy that gives them a sense of serenity when spending time with their plants. Through the understanding of these motivations, we can further advance the therapeutic aspects of gardening, while providing a bond over the love of plants. The project also hopes to enable gardeners to share their proudest plant collections and help one another become better gardeners. Though there are resources about gardening found online and opportunities to join planting communities, I want to mesh the two successfully online, after understanding the user and their motivations behind their love for gardening.
 
 ## Competitor analysis: Heuristic Evaluation
+kdfj;alj
+
 Garden.org is a website that provides both beginner and avid gardners with resources to connect with one another and gather useful gardening tips. There are many articles and useful information available about all different kinds of plants.
 
-After the heuristic evaluation, some usability concerns were raised. Without the searchbar, it would be extremely difficult to find information as the tabs are not organized. However, in my previous heuristic evaluation, I also found errors in the search engine. There are few indication of errors when searching for a keyword that is not available. In addition, the search engine provides unclear presentation of the answers unless the user digs through all the articles. Finally, the aesthetic of the website as a whole is cluttered and unpleasant to look at.
-
-Through usability testing, we aim to improve the website from the users' perspective. UT allows developers to understand and improve their site/app to achieve a certain goal that is user-driven. Through this usability test, I want to test how the aesthetic and the search engine affects the user's ability to research information in different scenarios. Each task will ask the users to utilize the search bar in order to conduct research related to gardening and test the user's ability to navigate the website. Ultimately, we are trying to understand the user and their perspective of the website's functions.
-
-Read more and view the heuristic testing [here](https://github.com/jessikarwang/DH150-JessikaWang/blob/main/README.md)
+View the full heuristic evaluation [here](https://github.com/jessikarwang/DH150-JessikaWang/blob/main/README.md)
 
 ## Competitor analysis: Usability Testing
-Read more and view the usability testing [here](https://github.com/jessikarwang/DH150-JessikaWang/tree/main/assignment02)
+Through usability testing, we aim to improve the website from the users' perspective. UT allows developers to understand and improve their site/app to achieve a certain goal that is user-driven. Through this usability test, I want to test how the aesthetic and the search engine affects the user's ability to research information in different scenarios. Each task will ask the users to utilize the search bar in order to conduct research related to gardening and test the user's ability to navigate the website. Ultimately, we are trying to understand the user and their perspective of the website's functions.
 
-## User research
+View the full usability testing [here](https://github.com/jessikarwang/DH150-JessikaWang/tree/main/assignment02)
+
+## User research: Contextual Inquiry
 In order to better understand users and their motivations, I conducted a contextual inquiry on my roommate who enjoys gardening and learning about plants. The methods I used were interview and participatory observation. This was conducted in the apartment in a quiet environment. 
 
 
