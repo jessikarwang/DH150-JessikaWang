@@ -55,6 +55,8 @@ Read more and view the wireflows [here](https://github.com/jessikarwang/DH150-Je
 
 ![wireflowfinal](Garden_revised_wireflow.PNG)
 
+Access the [wireframes](https://www.figma.com/file/0qMw1ccgnRAmaf0lThz75C/DH-150-A07-02-Prototype?node-id=0%3A1) on Figma too
+
 ## High-fidelity prototype 
 The purpose of this high fidelity prototype is to test the functionality of the features designed for the target garden community to fulfill their needs for resources and connections and polish the design to work best for the user.
 
@@ -62,7 +64,7 @@ The purpose of this high fidelity prototype is to test the functionality of the 
  <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F0qMw1ccgnRAmaf0lThz75C%2FDH-150-A07-02-Prototype%3Fnode-id%3D2%253A0%26scaling%3Dscale-down" allowfullscreen></iframe>
 </figure>
 
-Access the [final interactive prototype](https://www.figma.com/proto/0qMw1ccgnRAmaf0lThz75C/DH-150-A07-02-Prototype?node-id=2%3A0&scaling=scale-down) made on Figma here as well
+Access the [final interactive prototype](https://www.figma.com/proto/0qMw1ccgnRAmaf0lThz75C/DH-150-A07-02-Prototype?node-id=2%3A0&scaling=scale-down) on Figma too
 
 ## Optional evaluation and revision history 
 Read about the cognitive walkthrough and impression test [here](https://github.com/jessikarwang/DH150-JessikaWang/blob/main/Assignment07-02/README.md)
