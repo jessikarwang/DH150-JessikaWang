@@ -53,7 +53,7 @@ Read more about the personas and scenarios [here](https://github.com/jessikarwan
 The purpose of this low fidelity prototype is to test the flow and verify the functionality of the features designed for the target garden community to fulfill their needs for resources and connections.
 
 
-Read more and view the wireflows [here](https://github.com/jessikarwang/DH150-JessikaWang/tree/main/Assignment06)
+Read more and view the wireflows [here](https://github.com/jessikarwang/DH150-JessikaWang/blob/main/Assignment06/README.md)
 
 ## High-fidelity prototype 
 The purpose of this high fidelity prototype is to test the functionality of the features designed for the target garden community to fulfill their needs for resources and connections and polish the design to work best for the user.
