@@ -10,7 +10,7 @@ My project hopes to support middle-aged women with a community that understands 
 ## Competitor Analysis: Heuristic Evaluation
 During this time of isolation, gardeners are finding it more difficult to interact with their community of same-minded individuals. As of now, online gardening platforms focus primarily on resources and provide limited opportunities and services to connect with other gardeners. Through this heuristic evaluation, I evaluated the features and design of gardening resource websites in order to create a unique experience that encourages community and learning for all levels of gardeners. 
 
-Garden.org is a website that provides both beginner and avid gardners with resources to connect with one another and gather useful gardening tips. There are many articles and useful information available about all different kinds of plants.
+[Garden.org](https://garden.org/) is a website that provides both beginner and avid gardners with resources to connect with one another and gather useful gardening tips. There are many articles and useful information available about all different kinds of plants.
 
 ![gardenscreenshot](Garden_screenshot.PNG)
 View the full heuristic evaluation [here](https://github.com/jessikarwang/DH150-JessikaWang/blob/main/README.md)
