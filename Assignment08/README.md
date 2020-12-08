@@ -64,7 +64,7 @@ The purpose of this low fidelity prototype is to test the flow and verify the fu
 
 3. Post pictures of your plants and receive feedback
 
-Read more and view the wireflows [here](https://github.com/jessikarwang/DH150-JessikaWang/blob/main/Assignment06/README.md)
+View the prototype testing and wireflows [here](https://github.com/jessikarwang/DH150-JessikaWang/blob/main/Assignment06/README.md)
 
 ## Wireframe and Graphic Design Element Variation 
 Here below is both the low-fidelity and high-fidelity wireflows reflecting all three scenarios and tasks 
