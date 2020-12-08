@@ -67,6 +67,7 @@ The purpose of this low fidelity prototype is to test the flow and verify the fu
 Read more and view the wireflows [here](https://github.com/jessikarwang/DH150-JessikaWang/blob/main/Assignment06/README.md)
 
 ## Wireframe and graphic design element variation 
+Here below is both the low-fidelity and high-fidelity wireflows reflecting all three scenarios and tasks 
 
 ![wireflow1](Wireflow_1.PNG) | ![Wireflow2](Wireflow_2.PNG) | ![Wireflow3](Wireflow_3.PNG)
 
@@ -84,7 +85,7 @@ The purpose of this high fidelity prototype is to test the functionality of the 
 Access the [final interactive prototype](https://www.figma.com/proto/0qMw1ccgnRAmaf0lThz75C/DH-150-A07-02-Prototype?node-id=2%3A0&scaling=scale-down) on Figma too
 
 ## Optional evaluation and revision history 
-Read about the cognitive walkthrough and impression test [here](https://github.com/jessikarwang/DH150-JessikaWang/blob/main/Assignment07-02/README.md)
+View full cognitive walkthrough, impression test, and revision history [here](https://github.com/jessikarwang/DH150-JessikaWang/blob/main/Assignment07-02/README.md)
 
 ## Pitch video 
 
