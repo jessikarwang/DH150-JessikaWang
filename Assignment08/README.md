@@ -51,6 +51,7 @@ UX storytelling allows developers and designers to truly understand specific tar
 3. Page to display pictures of users' own plants
 
 ![amypersona](DH150_Amy_Persona.png) | ![davidpersona](DH150_David_Persona.png)
+
 ![amyjourney](Amy_Journey_Map.png) | ![davidjourney](David_Journey_Map.png)
 
 View the full personas and scenarios [here](https://github.com/jessikarwang/DH150-JessikaWang/blob/main/Assignment05/README.md)
