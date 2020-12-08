@@ -1,4 +1,4 @@
-# Garden Social Site 
+# Gardening Social Site 
 #### DH150: UX+UI, by Jessika Wang
 
 ## Introduction 
