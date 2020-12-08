@@ -57,6 +57,12 @@ View the full personas and scenarios [here](https://github.com/jessikarwang/DH15
 ## Low-fidelity prototype 
 The purpose of this low fidelity prototype is to test the flow and verify the functionality of the features designed for the target garden community to fulfill their needs for resources and connections.
 
+**Tasks**
+1. Searching for informational garden videos
+
+2. Post questions and receive answers on discussion forum
+
+3. Post pictures of your plants and receive feedback
 
 Read more and view the wireflows [here](https://github.com/jessikarwang/DH150-JessikaWang/blob/main/Assignment06/README.md)
 
