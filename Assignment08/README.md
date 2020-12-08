@@ -103,8 +103,6 @@ Main findings:
 
 View full cognitive walkthrough, impression test, and revision history [here](https://github.com/jessikarwang/DH150-JessikaWang/blob/main/Assignment07-02/README.md)
 
-## Pitch Video 
-
 ## Conclusion 
 Creating this high-fidelity interactive prototype was overall quite satisfying to see my work and research of the quarter come to fruition. Throughout this process, I learned several lessons:
 
