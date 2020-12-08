@@ -37,14 +37,14 @@ The session included the following sections:
 **3. Follow-up Questions** I asked direct follow-up questions to find other sources of an online gardening reasource and community. I also asked about their ideas for an online garden community. 
 
 
-Read more about the contextual inquiry [here](https://github.com/jessikarwang/DH150-JessikaWang/blob/main/assignment04/README.md)
+View the full the contextual inquiry [here](https://github.com/jessikarwang/DH150-JessikaWang/blob/main/assignment04/README.md)
 
 ## UX storytelling
 UX storytelling allows developers and designers to truly understand specific target users and their motivations in order to create a product that caters to their needs and desires. Through UX storytelling, we can grasp a better picture of the user and how they will interact with our products and designs. By starting from the users' perspective, the team can work toward satisfying these specific needs that is described in the personas and scenarios.
 
 ![amypersona](DH150_Amy_Persona.png) | ![davidpersona](DH150_David_Persona.png)
 
-Read more about the personas and scenarios [here](https://github.com/jessikarwang/DH150-JessikaWang/blob/main/Assignment05/README.md)
+View the full personas and scenarios [here](https://github.com/jessikarwang/DH150-JessikaWang/blob/main/Assignment05/README.md)
 
 ## Low-fidelity prototype 
 The purpose of this low fidelity prototype is to test the flow and verify the functionality of the features designed for the target garden community to fulfill their needs for resources and connections.
