@@ -8,7 +8,7 @@ Gardenfriends.org seeks to provide informational resources and build an online c
 My project hopes to support middle-aged women with a community that understands their hobbies and helps them grow as people, especially during a time of isolation. For many people, gardening is a form of therapy that gives them a sense of serenity when spending time with their plants. Through the understanding of these motivations, we can further advance the therapeutic aspects of gardening, while providing a bond over the love of plants. The project also hopes to enable gardeners to share their proudest plant collections and help one another become better gardeners. Though there are resources about gardening found online and opportunities to join planting communities, I want to mesh the two successfully online, after understanding the user and their motivations behind their love for gardening.
 
 ## Competitor analysis: Heuristic Evaluation
-kdfj;alj
+During this time of isolation, gardeners are finding it more difficult to interact with their community of same-minded individuals. As of now, online gardening platforms focus primarily on resources and provide limited opportunities and services to connect with other gardeners. Through this heuristic evaluation, I evaluated the features and design of gardening resource websites in order to create a unique experience that encourages community and learning for all levels of gardeners. 
 
 Garden.org is a website that provides both beginner and avid gardners with resources to connect with one another and gather useful gardening tips. There are many articles and useful information available about all different kinds of plants.
 
