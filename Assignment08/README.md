@@ -10,13 +10,13 @@ My project hopes to support middle-aged women with a community that understands 
 ## Competitor Analysis: Heuristic Evaluation
 During this time of isolation, gardeners are finding it more difficult to interact with their community of same-minded individuals. As of now, online gardening platforms focus primarily on resources and provide limited opportunities and services to connect with other gardeners. Through this heuristic evaluation, I evaluated the features and design of gardening resource websites in order to create a unique experience that encourages community and learning for all levels of gardeners. 
 
-[Garden.org](https://garden.org/) is a website that provides both beginner and avid gardners with resources to connect with one another and gather useful gardening tips. There are many articles and useful information available about all different kinds of plants.
+[Garden.org](https://garden.org/) is a website that provides both beginner and avid gardners with resources to connect with one another and gather useful gardening tips. There are many articles and useful information available about all different kinds of plants. The overall design is simple, which is effective; however, the overall design in the colors and organization makes it difficult to navigate the site.
 
 ![gardenscreenshot](Garden_screenshot.PNG)
 View the full heuristic evaluation [here](https://github.com/jessikarwang/DH150-JessikaWang/blob/main/README.md)
 
 ## Competitor Analysis: Usability Testing
-Through usability testing, we aim to improve the website from the users' perspective. UT allows developers to understand and improve their site/app to achieve a certain goal that is user-driven. Through this usability test, I want to test how the aesthetic and the search engine affects the user's ability to research information in different scenarios. Each task will ask the users to utilize the search bar in order to conduct research related to gardening and test the user's ability to navigate the website. Ultimately, we are trying to understand the user and their perspective of the website's functions.
+Through usability testing, we aim to improve the website from the users' perspective. UT allows developers to understand and improve their site/app to achieve a certain goal that is user-driven. Through this usability test, I want to test how the aesthetic and the search engine affects the user's ability to research information in different scenarios. Each task will ask the users to utilize the search bar in order to conduct research related to gardening and test the user's ability to navigate the website. Ultimately, we are trying to understand the user and their perspective of the website's functions. During the test, we found that the search bar was not as easy to navigate as expected. 
 
 <figure class="Garden_UT">
  <iframe src="https://drive.google.com/file/d/1Y5_8U7R4U23vfMOHOFhVG_J-dktOIfNb/preview" width="640" height="480"></iframe>
@@ -25,7 +25,7 @@ Through usability testing, we aim to improve the website from the users' perspec
 View the full usability testing [here](https://github.com/jessikarwang/DH150-JessikaWang/tree/main/assignment02)
 
 ## User Research: Contextual Inquiry
-In order to better understand users and their motivations, I conducted a contextual inquiry on my roommate who enjoys gardening and learning about plants. The methods I used were interview and participatory observation. This was conducted in the apartment in a quiet environment. 
+In order to better understand users and their motivations, I conducted a contextual inquiry on my roommate who enjoys gardening and learning about plants. The methods I used were interview and participatory observation. This was conducted in the apartment in a quiet environment. The main insights I gathered from the contextual inquiry is the importance of a video format for informational resources and respectful online communities on discussion forums. 
 
 
 The session included the following sections:
@@ -77,7 +77,7 @@ Here below is both the low-fidelity and high-fidelity wireflows reflecting all t
 Access the [wireframes](https://www.figma.com/file/0qMw1ccgnRAmaf0lThz75C/DH-150-A07-02-Prototype?node-id=0%3A1) on Figma too
 
 ## High-fidelity Prototype 
-The purpose of this high fidelity prototype is to test the functionality of the features designed for the target garden community to fulfill their needs for resources and connections and polish the design to work best for the user.
+The purpose of this high fidelity prototype is to test the functionality of the features designed for the target garden community to fulfill their needs for resources and connections and polish the design to work best for the user. This prototype addresses all three scenarios and tasks mentioned above.
 
 <figure class="video_container">
  <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F0qMw1ccgnRAmaf0lThz75C%2FDH-150-A07-02-Prototype%3Fnode-id%3D2%253A0%26scaling%3Dscale-down" allowfullscreen></iframe>
